@@ -1,0 +1,122 @@
+body{
+   background-color: #E8D1FA; 
+}
+
+h1 {
+   color:rgb(37, 35, 145);
+   background-color:white;
+   text-align: right;
+   border-top-left-radius:20px;
+   border-top-right-radius:20px;
+   border-bottom-right-radius:20px;
+   border-bottom-left-radius:20px;
+   margin: 2% 30%;
+}
+
+h3 {
+   color:rgb(0, 0, 0);
+   background-color:white;
+   text-align: center;
+}
+
+.certificado{
+   background-color: rgb(223, 218, 229);
+}
+
+body {
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
+}
+
+pre {
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.foto{
+   width: 19%;
+   background-color: rgb(255, 255, 255);
+   position: absolute;
+   left:3%;
+   top:2%;
+   border-top-left-radius:10px;
+   border-top-right-radius:10px;
+   border-bottom-right-radius:10px;
+   border-bottom-left-radius:10px;
+}
+
+.nome{
+   width:70%;
+   left: 340px;
+   background-color: rgb(255, 255, 255);
+   position: absolute;
+   top: 2%;
+   border-top-left-radius:10px;
+   border-top-right-radius:10px;
+   border-bottom-right-radius:10px;
+   border-bottom-left-radius:10px;
+}
+
+.habilidades{
+   width:30%;
+   background-color: rgb(255, 255, 255);
+   position: absolute;
+   left:30%;
+   top:19%;
+   border-top-left-radius:10px;
+   border-top-right-radius:10px;
+   border-bottom-right-radius:10px;
+   border-bottom-left-radius:10px;
+   background-color: white;
+
+}
+
+.redes{
+   width:20%;
+   height:35%;
+   background-color: rgb(255, 255, 255);
+   position: absolute;
+   left:68%;
+   top:17%;
+   border-top-left-radius:10px;
+   border-top-right-radius:10px;
+   border-bottom-right-radius:10px;
+   border-bottom-left-radius:10px;
+   margin: 1%;
+}
+
+.hobies{
+   width:35%;
+   height: 39%;
+   background-color: rgb(255, 255, 255);
+   position: absolute;
+   bottom: 13px;
+   right:54%;
+   border-top-left-radius:10px;
+   border-top-right-radius:10px;
+   border-bottom-right-radius:10px;
+   border-bottom-left-radius:10px;
+}
+
+.info{
+   width:38%;
+   background-color: rgb(255, 255, 255);
+   position: absolute;
+   bottom: 65px;
+   left:54%;
+   top:59%;
+   height: 39%;
+   border-top-left-radius:10px;
+   border-top-right-radius:10px;
+   border-bottom-right-radius:10px;
+   border-bottom-left-radius:10px;
+}
+
+p{
+   text-align: justify;
+   margin: 10%;
+   margin-top: 5%;
+}
+
+li{
+   margin-right: 5%;
+}
